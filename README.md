@@ -1,4 +1,6 @@
-# Intro to React Router 
+# Intro to React Router
+
+This React Router fan page needs some help with… site navigation 😅 🗺️
 
 Getting started:
 
